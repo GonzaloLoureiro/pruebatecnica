@@ -13,4 +13,4 @@ Para ver la repuesta:
 Se creara un archivo JSON con las respuestas a ambas partes planteadas en la prueba.
 
 Se me instruyo tambien que incluyera la cantidad de horas que me llevo realizar la prueba, 
-entre investigacion, haber comenzado en java para darme cuenta que haciendolo en python se me haria mas sencillo y haber cambiado de lenguaje, me llevo unas 6/7hs de trabajo, estas horas no fueron continuas, sino que fueron en intervalos de hora y media aprximadamente.
+entre investigacion, haber comenzado en java para darme cuenta que haciendolo en python se me haria mas sencillo y haber cambiado de lenguaje, me llevo unas 6/7hs de trabajo, estas horas no fueron continuas, sino que fueron en intervalos de hora y media aprximadamente debido a la disponibilidad horaria con la que contaba.
