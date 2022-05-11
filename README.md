@@ -1,2 +1,0 @@
-# pruebatecnica
-Prueba tecnica QuaLabs
